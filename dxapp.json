@@ -1,6 +1,6 @@
 {
   "name": "mrcepid-runassociationtesting",
-  "title": "RunAssociationTesting",
+  "title": "AnaRunAssociationTesting",
   "summary": "Runs rare variant burden testing with various tools",
   "dxapi": "1.0.0",
   "version": "1.4.13",
