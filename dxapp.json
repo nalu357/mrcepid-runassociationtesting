@@ -75,7 +75,7 @@
       {
         "name": "general_utilities",
         "package_manager": "git",
-        "url": "https://github.com/naluu357/general_utilities.git",
+        "url": "https://github.com/nalu357/general_utilities.git",
         "build_commands": "uv pip install --system  ."
       },
       {
