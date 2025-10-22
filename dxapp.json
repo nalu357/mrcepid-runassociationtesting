@@ -84,7 +84,7 @@
         "name": "burden",
         "package_manager": "git",
         "url": "https://github.com/mrcepid-rap/burden.git",
-        "tag": "v1.1.8",
+        "branch": "feature/align_with_genutils_v2",
         "build_commands": "uv pip install --system  ."
       },
       {
