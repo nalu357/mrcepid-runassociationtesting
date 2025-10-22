@@ -75,8 +75,7 @@
       {
         "name": "general_utilities",
         "package_manager": "git",
-        "url": "https://github.com/mrcepid-rap/general_utilities.git",
-        "tag": "v1.6.1",
+        "url": "https://github.com/naluu357/general_utilities.git",
         "build_commands": "uv pip install --system  ."
       },
       {
