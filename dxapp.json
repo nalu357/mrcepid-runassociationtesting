@@ -76,9 +76,7 @@
       {
         "name": "general_utilities",
         "package_manager": "git",
-        "url": "https://github.com/mrcepid-rap/general_utilities.git",
-        "branch": "bugfix/add_crrent_directory_as_mount_tested",
-        "tag": "v1.5.2",
+        "url": "https://github.com/nalu357/general_utilities.git",
         "build_commands": "uv pip install --system  ."
       },
       {
