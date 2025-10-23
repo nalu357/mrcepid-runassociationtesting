@@ -82,7 +82,6 @@
         "name": "burden",
         "package_manager": "git",
         "url": "https://github.com/nalu357/burden.git",
-        "branch": "feature/align_with_genutils_v2",
         "build_commands": "uv pip install --system  ."
       },
       {
